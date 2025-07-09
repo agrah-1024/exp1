@@ -1,0 +1,26 @@
+<html>
+<head>
+<title> sample </title>
+<h1> DEVOPS </h1>
+</head>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
